@@ -1,10 +1,10 @@
 # Vanilla Projects
 
-This repository contains a collection of projects developed without the use of frameworks, package bundlers, or any modern build tools. These projects demonstrate my ability to work with plain HTML, CSS, and JavaScript.
+This repository contains a collection of projects developed without the use of frameworks, package bundlers, or any modern build tools. These projects demonstrate my ability to work with plain HTML, CSS, and JavaScript and various other languages.
 
 ## Purpose
 
-The purpose of this repository is to showcase my skills in developing web applications with pure HTML, CSS, and JavaScript. These projects highlight my understanding of core web technologies and my ability to build functional applications without relying on external frameworks like React or Next.js.
+The purpose of this repository is to showcase my skills in developing web applications with pure HTML, CSS, and JavaScript and other programming languages. These projects highlight my understanding of core web technologies and my ability to build functional applications without relying on external frameworks like React or Next.js.
 
 ## How to Run
 
