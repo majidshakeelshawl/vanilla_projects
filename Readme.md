@@ -4,7 +4,7 @@ This repository contains a collection of projects developed without the use of f
 
 ## Purpose
 
-The purpose of this repository is to showcase my skills in developing web applications with pure HTML, CSS, and JavaScript. These projects highlight my understanding of core web technologies and my ability to build functional applications without relying on external libraries or frameworks.
+The purpose of this repository is to showcase my skills in developing web applications with pure HTML, CSS, and JavaScript. These projects highlight my understanding of core web technologies and my ability to build functional applications without relying on external frameworks like React or Next.js.
 
 ## How to Run
 
